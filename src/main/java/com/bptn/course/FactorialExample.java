@@ -1,20 +1,4 @@
 package com.bptn.course;
-/*
-You’re building a checkout system for an online store. The system must ask the user how many items they are purchasing. Then, for each item, prompt the user to enter the item’s price.
-Use a for loop to:
-Read each item’s price.
-Accumulate the total cost.
-Display the total amount to pay at the end.
-
-Test
-How many items are you buying? 3
-Enter price for item 1: 15.99
-Enter price for item 2: 9.50
-Enter price for item 3: 5.00
-
-Total amount: $30.49
- */
-
 
 import java.util.Scanner;
 
